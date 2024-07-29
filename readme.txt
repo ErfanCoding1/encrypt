@@ -1,0 +1,1 @@
+a simple encrypt and decrypt text fucntion than can be used by improved alogoritms.
