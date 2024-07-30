@@ -1,8 +1,8 @@
 the encrypt project is a simple encrypt and decrypt text fucntion than can be used by improved alogoritms.
 
-the password project contains a function that you can use to generate a poweful passwords for your personal use.
+the password project contains a function that you can use to generate a powerful passwords for your personal use.
 string module is used to get english letters.
-from random module, sample function is used to get substring form whole characters.
+from random module, sample function is used to get the substring form whole characters.
 
 
 
